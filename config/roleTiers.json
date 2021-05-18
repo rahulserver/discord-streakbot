@@ -1,0 +1,82 @@
+{
+  "Strategos": {
+    "tier": 1,
+    "pts": 808
+  },
+  "Polemarch": {
+    "tier": 2,
+    "pts": 708
+  },
+  "Navarch": {
+    "tier": 3,
+    "pts": 618
+  },
+  "Legatus": {
+    "tier": 4,
+    "pts": 538
+  },
+  "Yamabushi": {
+    "tier": 5,
+    "pts": 458
+  },
+  "Varangian": {
+    "tier": 6,
+    "pts": 388
+  },
+  "Spartan": {
+    "tier": 7,
+    "pts": 318
+  },
+  "Kheshig": {
+    "tier": 8,
+    "pts": 258
+  },
+  "Praetorian": {
+    "tier": 9,
+    "pts": 198
+  },
+  "Sohei": {
+    "tier": 10,
+    "pts": 148
+  },
+  "Medjay": {
+    "tier": 11,
+    "pts": 108
+  },
+  "Gurkha": {
+    "tier": 12,
+    "pts": 78
+  },
+  "Imperator": {
+    "tier": 13,
+    "pts": 58
+  },
+  "Samurai": {
+    "tier": 14,
+    "pts": 48
+  },
+  "Kenin": {
+    "tier": 15,
+    "pts": 38
+  },
+  "Janissary": {
+    "tier": 16,
+    "pts": 28
+  },
+  "Hoplite": {
+    "tier": 17,
+    "pts": 18
+  },
+  "Lictor": {
+    "tier": 18,
+    "pts": 12
+  },
+  "Ashigaru": {
+    "tier": 19,
+    "pts": 6
+  },
+  "Ronin": {
+    "tier": 20,
+    "pts": 0
+  }
+}
